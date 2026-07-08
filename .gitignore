@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Model files (optional)
+# Uncomment if you DON'T want to upload large models
+# *.keras
+# *.h5
+
+# OS files
+.DS_Store
+Thumbs.db
